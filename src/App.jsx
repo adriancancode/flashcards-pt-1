@@ -24,6 +24,7 @@ const App = () => {
       <div className='header'>
         <h1>Flashcards of Rock</h1>
         <h2>Test your inner rock n' roller with these flashcards!</h2>
+        <h3>Number of cards: {flashcards.length}</h3>
       </div>
       <Card question={showAnswer ? flashcards[card].answer : flashcards[card].question}/>
       <button onClick={() => setShowAnswer(!showAnswer)}>{showAnswer ? "Show Answer" : "Show Question"}</button>
