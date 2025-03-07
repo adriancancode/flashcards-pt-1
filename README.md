@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Video Walkthrough](https://img.youtube.com/vi/CbCpDJ2KPNA.jpg)](https://www.youtube.com/watch?v=CbCpDJ2KPNA)
+[![Video Walkthrough](https://img.youtube.com/vi/CbCpDJ2KPNA/0.jpg)](https://www.youtube.com/watch?v=CbCpDJ2KPNA)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with ...  
